@@ -1,0 +1,194 @@
+@media (max-width:425px) {
+    .header-container {
+        display: block;
+        width: 100%;
+    }
+    .container-example {
+        width: 90%;
+        margin: auto;
+        display: block;
+        padding: 0;
+    }
+    
+    .diagram-img {
+        float: none;
+    }
+    .pattern-img {
+        float: none;
+    }
+    .advice-img {
+        float: none;
+    }
+    .example-img {
+        width: 100%;
+        padding: 0;
+    }
+    .example-description {
+        width: 100%;
+        padding: 20px 30px;
+        text-align: center;
+    }
+    .example-description-two {
+        width: 70%;
+        margin: auto;
+        float: none;
+        text-align: center;
+    }
+    .example-img-two {
+        width: 100%;
+    }
+    .example-description-two>p {
+        width: 100%;
+    }
+    .example-description-two>h5 {
+        width: 100%;
+    }
+    .border-two {
+        width: 100%;
+    }
+    .line-bottom {
+        width: 90%;
+    }
+    .col-advantages {
+        display: block;
+    }
+    .footer-container {
+        width: 100%;
+        display: block;
+    }
+    .header-container-logo {
+        float: none;
+    }
+    .header-container-navbar {
+        float: none;
+    }
+    .header-container-navbar__list>li {
+        display: block;
+    }
+    .header-title {
+        width: 90%;
+    }
+    .header-subtitle {
+        width: 90%;
+    }
+    .header-email {
+        width: 80%;
+    }
+    .header-user {
+        width: 80%;
+        padding: 0 0 20px 0;
+    }
+    .header-title>h2 {
+        margin-top: 10px;
+    }
+    .header-user__item1 {
+        right: 0;
+    }
+    .header-user__item2 {
+        left: 0;
+    }
+    .header-container-navbar__list>li {
+        margin: 15px 10px;
+    }
+    .header-container-logo {
+        margin-left: 20px;
+    }
+    .header-user__icon1 {
+        left: -25px;
+    }
+    .header-user__icon2 {
+        right: -55px;
+    }
+}
+@media (min-width: 426px) and (max-width: 768px) {
+    .header-container {
+        width: 96%;
+    }
+    .container-example {
+        width: 96%;
+    }
+    .footer-container {
+        width: 96%;
+    }
+    .header-container-navbar__link {
+        padding: 0 6px;
+    }
+    .header-container-navbar__list>li {
+        margin-bottom: 10px;
+    }
+    .header-title {
+        width: 85%;
+    }
+    .header-title>h2 {
+        margin-top: 40px;
+    }
+    .header-subtitle {
+        width: 76%;
+    }
+    .header-email {
+        width: 66%;
+    }
+    .header-user {
+        width: 50%;
+    }
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    .header-container {
+        width: 90%;
+    }
+    .container-example {
+        width: 90%;
+    }
+    .footer-container {
+        width: 90%;
+    }
+    .header-container-navbar__link {
+        padding: 0 10px;
+    }
+    .header-title {
+        width: 56%;
+    }
+    .header-subtitle {
+        width: 47%;
+    }
+    .header-email {
+        width: 44%;
+    }
+    .header-user {
+        width: 33%;
+    }
+}
+@media (min-width: 1441px) {
+    .header-container {
+        width: 1140px;
+    }
+    .container-example {
+        width: 1140px;
+    }
+    .footer-container {
+        width: 1140px;
+    }
+    .header-container-navbar__link {
+        font-size: 20px;
+    }
+    .header-title {
+        width: 800px;
+    }
+    .header-title>h2 {
+        margin-top: 120px;
+        font-size: 36px;
+    }
+    .header-subtitle {
+        width: 820px;
+    }
+    .header-subtitle>h3 {
+        font-size: 20px;
+    }
+    
+    .header-email {
+        width: 500px;
+    }
+    .header-user {
+        width: 350px;
+    }
+}
